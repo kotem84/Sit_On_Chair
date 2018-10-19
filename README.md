@@ -6,6 +6,7 @@ The big challenge for me was to make dropdown menu, but eventually I was success
 
 ## Used technologies
 In my project I made use of, among other things:
+
 HTML:
 + tags: header, section, footer, form, nav, button
 + attributes: class, href, alt
