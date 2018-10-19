@@ -1,4 +1,4 @@
-# Sit on chair
+# Sit On Chair
 My first ever web project "Sit on Chair" was created during Coders Lab course. I used HTML and CSS3. This is first step in my portfolio.
 I started learning HTML and CSS a few months ago and now I can make website as you can see.
 I had only screenshot of website and based on my knowledge I had to make this website.
