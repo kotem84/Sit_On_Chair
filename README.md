@@ -22,7 +22,7 @@ and many more.
 This project will be developed and expanded by JavaScript.
 
 ## Usage
-To start using this page, just download whole content and run index.html file. Enjoy! 
+To start using this page, just download whole content and run warsztaty.html file. Enjoy! 
 
 See you next time
 
